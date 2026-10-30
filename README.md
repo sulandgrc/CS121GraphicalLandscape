@@ -1,10 +1,10 @@
-# CS121HelloGraphics
+# CS121GraphicalLandscape
 
 ## Directions
 
 ### Create a repository and open a Codespace
 
-1. While signed in to GitHub, visit the [CS121HelloGraphics repository](https://github.com/sulandgrc/CS121HelloGraphics).
+1. While signed in to GitHub, visit the [CS121HelloGraphics repository](https://github.com/sulandgrc/CS121GraphicalLandscape).
 2. Click **Use this template**, then select **Create a new repository**.
 3. Set the owner to your account and choose a repository name, such as `CS121HelloGraphics`.
 4. Click **Create repository**.
